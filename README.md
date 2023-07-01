@@ -108,6 +108,10 @@
 <br/>  
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabbirjodhpur&show_icons=true&locale=en&layout=compact" alt="shabbirjodhpur" />
+<p align="center">
+  <a href="https://github.com/shabbirjodhpur/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabbirjodhpur&show_icons=true&locale=en&layout=compact" alt="shabbirjodhpur" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirjodhpur&" alt="shabbirjodhpur" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirjodhpur&" alt="shabbirjodhpur" />
+</a>
+</p>

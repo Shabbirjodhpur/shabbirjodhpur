@@ -1,7 +1,7 @@
 ### <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Shabbir</h1>
 
 
-<h3 align="center">A passionate Full Stack Web Developer from <img src="https://icons.iconarchive.com/icons/wikipedia/flags/64/IN-India-Flag-icon.png" width="25 style="vertical-align: middle"/>   </h3>
+<h3 align="center">A passionate Full Stack Web Developer from <img src="https://icons.iconarchive.com/icons/wikipedia/flags/64/IN-India-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 
 
@@ -25,7 +25,27 @@
 - Designing 💎
 - Product Development 🧑‍💻
 <hr />
+## Connect with me  
+<div align="center">
+<a href="https://github.com/shabbirjodhpur/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/shabbirjodhpur/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/shabbir-jodhpurwala-b01397116/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/shabbir_jodhpur/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="mailto: shabbirjodhpurwala@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
 
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -81,30 +101,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/shabbirjodhpur/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/shabbirjodhpur/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/shabbir-jodhpurwala-b01397116/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/shabbir_jodhpur/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="mailto: shabbirjodhpurwala@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 

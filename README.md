@@ -8,7 +8,7 @@
 <h3 align="center"> Building getfyi.app | CS Grad of MGIT - 2023 | Campus Lead - EdVenture Park </h3>
   <br />
 
-- I'm currently working to build and improve FYI <img style="margin-bottom:-100px;" src="https://play-lh.googleusercontent.com/h38qgN_ki9KZvhiz2nk5LplGWV2EpYeb67sNBwPOaLVlhP-NJLioHLlTwAL18CfCEQ=s48-rw"/> - which is revolutionizing social media.
+- I'm currently working to build and improve FYI - which is revolutionizing social media.
   
 - I have been working on a lot of real-time projects that help me gain loads of experience in Full Stack Web Development.
   

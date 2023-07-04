@@ -1,4 +1,10 @@
-### <h1 align="center">Shabbir Jodhpur</h1>
+### <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Shabbir</h1>
+
+
+<h3 align="center">A passionate Full Stack Web Developer from <img src="https://icons.iconarchive.com/icons/wikipedia/flags/64/IN-India-Flag-icon.png" width="25 style="vertical-align: middle"/>   </h3>
+
+
+
 <h3 align="center"> Building getfyi.app | CS Grad of MGIT - 2023 | Campus Lead - EdVenture Park </h3>
   <br />
 

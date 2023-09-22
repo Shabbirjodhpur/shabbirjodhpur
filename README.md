@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center"> Building <a href="www.fyi.is">FYI.is</a> | CS Grad of <a href="https://www.mgit.ac.in">MGIT</a> - 2023 | Campus Lead - <a href="https://www.edventurepark.com">EdVenture Park</a> </h3>
+<h3 align="center"> <a href="www.fyi.is">Building FYI.is</a> | CS Grad of <a href="https://www.mgit.ac.in">MGIT</a> - 2023 | Campus Lead - <a href="https://www.edventurepark.com">EdVenture Park</a> </h3>
   <br />
 
 - I'm currently working to build and improve FYI - which is revolutionizing social media.
